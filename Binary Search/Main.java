@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-class Main{
+class BinarySearchAlgo{
     public static void main(String[] args) {
         Random random = new Random();
         Scanner scanner = new Scanner(System.in);
